@@ -48,7 +48,8 @@ Official Title:
 My Main Purpose
 - FanDuel guy (or person)
 - FanDuel escalation point
-- 
+- Help drive new opportunities in new and existing accounts
+
 
 
 ![bg left:33% fit](./images/dohere.jpeg)
@@ -57,15 +58,14 @@ My Main Purpose
 
 Opps and Challenges
 
-![bg left:33% fit](./images/balancing.jpeg)
+![bg left:25% fit](./images/balancing.jpeg)
 
 Opportunities 
-- 
-
+- Working primarily on the FanDuel project has allowed me to see the true value of the 'DevOps' movement.  Our growth as a team with heavily tied to the our ability to provide DevOps value to our client base
 
 Challenges
-- Balancing the needs of the giant needy whale (FanDuel) with other opportuties
-- 
+- Balancing the needs of the giant needy whale (FanDuel) with other opportunities.
+- Finding the next 'FanDuel'
 
 ---
 
