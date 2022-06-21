@@ -6,8 +6,13 @@ backgroundColor: #000
 marp: true
 style: |
   p {
-      font-size: 16pt
+      font-size: 12pt
   }
+
+  li {
+    font-size: 16pt
+  }
+
   img[alt~=bottom-center] {
     display: block;
     margin: 0 auto;
@@ -41,13 +46,12 @@ style: |
 
 # Who Am I #
 
-Official Title: 
+###### Official Title: ######
 - Solution Specialist or Solution Architect
+- Been with CC since 2007 (15 years)
 
-
-My Main Purpose
-- FanDuel guy (or person)
-- FanDuel escalation point
+###### My Main Purpose ######
+- The FanDuel Guy (selling, engineering, escalation, operations)
 - Help drive new opportunities in new and existing accounts
 
 
@@ -56,61 +60,80 @@ My Main Purpose
 
 ---
 
-Opps and Challenges
+# Opps and Challenges #
 
 ![bg left:25% fit](./images/balancing.jpeg)
 
-Opportunities 
-- Working primarily on the FanDuel project has allowed me to see the true value of the 'DevOps' movement.  Our growth as a team with heavily tied to the our ability to provide DevOps value to our client base
+###### Opportunities ######
+- Working primarily on the FanDuel project has allowed me to see the true value of the 'DevOps' movement.  Our growth as a team will be heavily tied to the our ability to provide 'DevOps' value to our client base
 
-Challenges
+###### Challenges ######
 - Balancing the needs of the giant needy whale (FanDuel) with other opportunities.
-- Finding the next 'FanDuel'
+- Finding the next 'FanDuel'  
 
 ---
 
-Personal Investiments
+# Personal Investiments #
 
+![bg left:25% fit](./images/fail.png)
 
+###### In the last 12 months... ######
+- Learned new and emerging technologies like OpenStack!!
+--(if you don't know OpenStack is not the future) 
+- Didn't work out one minute ..... and it shows 
+- Focused on work and helping to raise (5) kids, unfortunately left littel time for personal investiment
+- Will be a focus of mine for second half of 2022
+-- Diet starts....tomorrow :)
 
 
 ---
 
 # Profession Accomplishments #
 
-- Emovis
--- New Logo, Legacy Expert Services (Storage, Backup, Network)
--- ~$13k/mon
--- 6 Month deal process, main decision makers in Europe
+###### Emovis ######
+- New Logo, Legacy Expert Services (Storage, Backup, Network) @ 13k/mon
+- 6 Month deal process, main decision makers in Europe
 
-- FanDuel
--- Continue to successfully support (10) sites despite losing key engineer at the beginning of all deployments
--- Working to stay revelent while FanDuel moves more operations to AWS.
+###### FanDuel ######
+- Support (10) sites despite losing key engineer at the beginning of all deployments
+- Working to stay revelent while FanDuel moves more operations to AWS.
 
-- Brixmor Renewal
--- Customer demands exceeded that of current MRR
--- Positioned take it or leave it 2x quote
--- Despite a lot complaining, customer signed the contract.  Currently just completed renewal of expanded contract
--- Special thanks to Paige, Mike and VB
+###### Brixmor Renewal ######
+- Customer demands exceeded that of current MRR, offered take it or leave it 2x quote
+- Called customer bluff and they signed the contract. Renewal just signed!
+- Special thanks to Paige, Mike and VB
 
 ---
 
-Value to Business
+## Value to Business #
 
-MMR:  ~$178k
+###### MMR:  ~$178k ######
 
-![w:1300px](https://mermaid.ink/img/pako:eNpVzz0LwjAQgOG_Em52ET-QbC3qpIt1kixnc2pok5R48YPifzdWW_Cm8PCS41oovSaQ0BgSbLgmkZWlj45FHggr7e9OOZFGwRrdMlKtQEgxnfeaFftOxoNsN_lXZr3kwTysD50OuDX1EV3V4WQoiS8Nnum7pNdid_jPVtbfzLWzBYzAUrBodDqj_RQK-EI2_SHTU2NIO5R7pS42GplW2rAPIE9YX2kEGNkXT1eC5BCpj5YGzwHtr3q9AUbIWD8)
+- FanDuel represent a significant % of my account value
+- Majority remaining accounts close to 10+ years of service!
+- (1) new account added in 2022 (Emovis)
 
----
 
-Reflections
+![bg left:50% fit](./images/mmr.png)
 
-![bg left:50% fit](https://mermaid.ink/img/pako:eNo1jjEOwjAMRa9iee4AI9mAlpUBxixWYiBqk1SuI4Sq3p2A2j9Zfs_yn9Flz2hwDAwadGA4FxFOCt2kIZKyh3uIDCdh6n1-J5ugxuKFUlt4sAgGDrtte9UXCxydyyXp9If7FW7BBiNLpODr3_nHLNaryBZNHT1Jb9GmpXpl9LVB54NmQfOgYeIGqWi-fZJDo1J4k9pAT6G4WssXJXdFhg)
-
----
-
-The Future!!
 
 ---
 
-Cute Pics of Kids
+## Reflections and Future ##
+
+![bg left:50% fit](./images/time.png)
+
+- Too much time spent on one account.
+- FanDuel's revenue will drop and so will my time towards it.
+- 2022 and beyond must be about net new accounts.
+- 2022 will be about growing the next set of Solution Specialists to grow the business
+
+---
+
+## Enjoy The Week! ##
+
+- I am SO sorry I couldn't be there this week.
+- Don't Party Too Hard :)
+- and someone please record Rich's karaoke performance!
+
+![bg left:50% fit](./images/party.png)
