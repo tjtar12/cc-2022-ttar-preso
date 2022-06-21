@@ -136,4 +136,6 @@ style: |
 - Don't Party Too Hard :)
 - and someone please record Rich's karaoke performance!
 
+#### THANK YOU Professor Matos for being my proxy! #### 
+
 ![bg left:50% fit](./images/party.png)
